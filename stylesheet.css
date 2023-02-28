@@ -45,5 +45,6 @@ img {
 }
 table, th, td {
   border: 1px solid;
+  width: 40%;
 }
 
